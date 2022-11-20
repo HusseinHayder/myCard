@@ -1,0 +1,23 @@
+.body{
+    margin: 20px;
+
+}
+.card{
+    width: 450px;
+    height: 200px;
+    background: #468faf;
+    margin: 0 auto;
+    display: flex;
+    border-bottom: 5px #ffc000 solid;
+}
+.avatar{
+    width: 150px;
+    margin: auto 20px auto;
+}
+.info{
+    color: #edf6f9;
+}
+.text{
+    line-height: 143%
+    
+}
